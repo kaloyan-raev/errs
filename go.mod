@@ -1,1 +1,1 @@
-module github.com/kaloyan-raev/errs
+module github.com/zeebo/errs
